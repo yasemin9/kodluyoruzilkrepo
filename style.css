@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    background-color: #ece0e0;
+  }
+  
+  .menu-button {
+    background-color: #8f8383;
+    color: #02000c;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .menu-button:hover {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  
